@@ -1,0 +1,37 @@
+<p>&nbsp; &nbsp;<img height="65" src="https://princetonsurvey.az1.qualtrics.com/CP/Graphic.php?IM=IM_6tGnzDjYjtqB9Jz" style="width: 195px; height: 65px; float: left;" width="195" /><br />
+&nbsp;<br />
+<br />
+<br />
+<span style="font-size:13px;"><span style="color:black;"><span style="font-family:helvetica light,sans-serif;"><span style="font-family:arial,helvetica,sans-serif;">Researchers from Princeton University are conducting a study on teachers&#39; opinions and practices. Please consider taking the time to complete this brief survey, which involves reading a short report summary and providing your opinions. </span></span></span></span></p>
+
+<p><span style="font-size:13px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:black;">This survey is expected to take no more than 5 minutes. You will be compensated $10 for your time (and entered into a raffle to win an additional $100 Amazon gift card), and your participation will help improve school learning environments. Please click the&nbsp;button below to take the survey!</span></span></span></p>
+
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table cellpadding="25" cellspacing="0">
+				<tbody>
+					<tr>
+						<td bgcolor="#3336FF" class="”button”"><span style="font-size:16px;"><a href="https://princetonsurvey.az1.qualtrics.com/jfe/form/SV_6KKP8Izf1Cg9Mdn"><span style="font-family:arial,helvetica,sans-serif;"><strong><span style="color:#FFFFFF;">Click here to take survey! </span></strong></span></a></span></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div><br />
+<span style="font-size:13px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:black;">Thank you for your time and participation!</span><br />
+&nbsp;<br />
+<span style="color:black;">Princeton University Survey Research Center</span></span></span></div>
+<span style="font-size:13px;"><span style="font-family:arial,helvetica,sans-serif;">&nbsp;</span></span><br />
+<span style="font-family:arial,helvetica,sans-serif;">&nbsp;<br />
+<br />
+<br />
+Click the button above or copy and paste the URL below into your internet browser:&nbsp;</span><br />
+<span style="font-family: arial, helvetica, sans-serif;">${l://SurveyURL}</span>
+
+<p><span style="font-family:arial,helvetica,sans-serif;"><small>Follow the link to opt out of future emails:<br />
+${l://OptOutLink?d=Click here to unsubscribe}</small></span></p>
